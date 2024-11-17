@@ -35,6 +35,9 @@ if __name__ == '__main__':
   <a href="https://www.instagram.com/abanoub.maged17/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="abanoub.maged17" height="30" width="40" /></a>
+    <a href="abanoub.maged171@gmail.com/" target="blank"><img align="center"
+      src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"
+      alt="abanoub.maged17" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -59,6 +62,12 @@ if __name__ == '__main__':
       src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino"
       width="40" height="40" /> </a> <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib"
+      width="40" height="40" /> </a> <a href="https://gradle.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle"
+      width="40" height="40" /> </a> <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy"
+      width="40" height="40" /> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm"
       width="40" height="40" /> </a>
 <br>
 
