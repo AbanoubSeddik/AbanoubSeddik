@@ -117,3 +117,11 @@ if __name__ == '__main__':
     />
   </div>
 </div>
+## Most Used Languages
+      3 null
+      3 Python
+      2 Jupyter Notebook
+      1 Kotlin
+      1 JavaScript
+      1 Haskell
+      1 Hack
