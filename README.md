@@ -93,27 +93,27 @@ if __name__ == '__main__':
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino"
       width="40" height="40" title="Arduino" />
   </a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux"
       width="40" height="40" title="Linux" />
   </a>
-     <a href="https://www.rancher.com" target="_blank" rel="noreferrer">
+<a href="https://www.rancher.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" alt="Rancher"
       width="40" height="40" title="Rancher" />
   </a>
-    <a href="https://helm.sh" target="_blank" rel="noreferrer">
+<a href="https://helm.sh" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" alt="Helm"
       width="40" height="40" title="Helm" />
   </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"
       width="40" height="40" title="Kubernetes" />
   </a>
-    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+<a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker"
       width="40" height="40" title="Docker" />
   </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"
       width="40" height="40" title="Jenkins" />
   </a>
